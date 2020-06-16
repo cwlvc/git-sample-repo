@@ -1,0 +1,3 @@
+git commands
+
+git init ---- helps initializing the folder of git so it recognizes it as a git folder
